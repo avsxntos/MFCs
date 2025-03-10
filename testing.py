@@ -1,6 +1,6 @@
 import requests
 
-# URL da API
+# URL da APIgdgd
 url = 'https://www.mfcopenapi.info/open/api/playlist/videos/v1'
 
 # Parâmetros da requisição (coloque a playlistId que você deseja)
